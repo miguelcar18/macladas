@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg3668"
+   viewBox="0 0 170 36"
+   height="36"
+   width="170">
+  <defs
+     id="defs3670" />
+  <metadata
+     id="metadata3673">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1016.3621)"
+     id="layer1">
+    <text
+       transform="scale(1.0001507,0.99984933)"
+       id="text3676"
+       y="1050.1608"
+       x="83.312981"
+       style="font-style:normal;font-weight:normal;font-size:5.57670212px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.15340424px;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';text-align:center;text-anchor:middle;fill:#ffffff;"
+         y="1050.1608"
+         x="83.312981"
+         id="tspan3678">Ingenieros Consultores</tspan></text>
+    <text
+       transform="scale(0.99986642,1.0001336)"
+       id="text3680"
+       y="1038.948"
+       x="85.366196"
+       style="font-style:normal;font-weight:normal;font-size:31.60342216px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:UnBatang;-inkscape-font-specification:'UnBatang Bold';text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#800000"
+         y="1038.948"
+         x="85.366196"
+         id="tspan3682">MACLADAS</tspan></text>
+  </g>
+</svg>
