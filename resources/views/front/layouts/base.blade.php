@@ -70,10 +70,8 @@
         <!-- JS Implementing Plugins -->
         <script type="text/javascript" src="{{ asset('assets/plugins/back-to-top.js') }}"></script>
         <script type="text/javascript" src="{{ asset('assets/plugins/smoothScroll.js') }}"></script>
-        {{--
-        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyALo2iAW7U4VIN3Qja94uDhkmyf6sCa2xk&sensor=true"></script>
         <script type="text/javascript" src="{{ asset('assets/plugins/gmap/gmap.js') }}"></script>
-        --}}
         <script type="text/javascript" src="{{ asset('assets/plugins/jquery.parallax.js') }}"></script>
         <script type="text/javascript" src="{{ asset('assets/plugins/fancybox/source/jquery.fancybox.pack.js') }}"></script>
         <script type="text/javascript" src="{{ asset('assets/plugins/owl-carousel/owl-carousel/owl.carousel.js') }}"></script>

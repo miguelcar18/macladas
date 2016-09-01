@@ -56,6 +56,24 @@
         <div class="item">
             <img src="{{ asset('assets/img/clientes/gobierno-peru.svg') }}" alt="">
         </div>
+        <div class="item">
+            <img src="{{ asset('assets/img/clientes/amoco.svg') }}" alt="">
+        </div>
+        <div class="item">
+            <img src="{{ asset('assets/img/clientes/queiroz-galvao.svg') }}" alt="">
+        </div>
+        <div class="item">
+            <img src="{{ asset('assets/img/clientes/pdv.svg') }}" alt="">
+        </div>
+        <div class="item">
+            <img src="{{ asset('assets/img/clientes/texaco.svg') }}" alt="">
+        </div>
+        <div class="item">
+            <img src="{{ asset('assets/img/clientes/aguas_monagas.jpg') }}" alt="">
+        </div>
+        <div class="item">
+            <img src="{{ asset('assets/img/clientes/oxy.svg') }}" alt="">
+        </div>
     </div>
 </div><!--/container-->
 <!-- End Owl Clients v1 -->

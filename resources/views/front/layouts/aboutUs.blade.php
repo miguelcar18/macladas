@@ -11,7 +11,7 @@
                 <img class="img-responsive" src="{{ asset('assets/img_macladas/about.jpg') }}" alt="">
             </div>
             <div class="col-md-6">
-                <h3 style="text-align:justify">Compañías Macladas, es una compañía creada en 1996 con la finalidad de prestar servicios de ingeniería (Geotecnia, Hidrogeología y Minería); aseguramiento y control de calidad e inspección  de obras: ensayos de laboratorios de suelos, concreto y asfalto.</h3><br>
+                <h3 style="text-align:justify">Macladas Ingenieros Consultores C.A, es una compañía creada en 1996 con la finalidad de prestar servicios de ingeniería (Geotecnia, Hidrogeología, Minería y Metalmecánica); aseguramiento y control de calidad e inspección  de obras: ensayos de laboratorios de suelos, concreto y asfalto.</h3><br>
             </div>
         </div><!--/end row-->
     </div>

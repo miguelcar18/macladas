@@ -14,7 +14,7 @@
 
                 <!-- LAYER -->
                 <div class="tp-caption re-text-v1 sft" data-x="center" data-hoffset="0" data-y="200" data-speed="1400" data-start="2000" data-easing="Power4.easeOut" data-endspeed="300" data-endeasing="Power1.easeIn" data-captionhidden="off" style="z-index: 6">
-                    Empresa dedicada a proyectos de ingeniería y construcción
+                    Empresa dedicada a proyectos de Ingeniería y construcciones
                 </div>
                 <!-- END LAYER -->
 

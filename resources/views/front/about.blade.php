@@ -28,7 +28,7 @@
     <div class="headline-center margin-bottom-60">
         <h2>MACLADAS INGENIEROS CONSULTORES</h2>
         <p>
-            Compañías Macladas, es una compañía creada en 1996 con la finalidad de prestar servicios de ingeniería (Geotecnia, Hidrogeología y Minería); aseguramiento y control de calidad e inspección  de obras: ensayos de laboratorios de suelos, concreto y asfalto.
+            Macladas Ingenieros Consultores C.A, es una compañía creada en 1996 con la finalidad de prestar servicios de ingeniería (Geotecnia, Hidrogeología, Minería y Metañmecánica); aseguramiento y control de calidad e inspección  de obras: ensayos de laboratorios de suelos, concreto y asfalto.
         </p>
     </div>
     <div class="row">
@@ -38,11 +38,11 @@
         <div class="col-md-6">
             <div class="row">
                 <ul class="list-unstyled lists-v1">
-                    <li><i class="fa fa-angle-right"></i>Proyectos geotécnisoa en tierra firme y off shore.</li>
+                    <li><i class="fa fa-angle-right"></i>Proyectos geotécnicos en tierra firme y off shore.</li>
                     <li><i class="fa fa-angle-right"></i>Evaluación del riesgo de pounch though en capas de arcilla blanda a consecuencia de las acciones climáticas.</li>
                     <li><i class="fa fa-angle-right"></i>Análisis de estabilidad y comportamiento a corto y largo plazo de plataformas, muelles, rompeolas, estructuras, recuperación de terrenos.</li>
                     <li><i class="fa fa-angle-right"></i>Simulación matemática de estructuras.</li>
-                    <li><i class="fa fa-angle-right"></i>Exploración por agua, S.E.V. perforación de pozos de aguas.</li>
+                    <li><i class="fa fa-angle-right"></i>Exploración por agua, S.E.V., perforación de pozos de agua.</li>
                 </ul>
             </div>
         </div>
@@ -93,7 +93,7 @@
         <div class="col-md-4 content-boxes-v6 md-margin-bottom-50">
             <i class="rounded-x glyphicon glyphicon-briefcase"></i>
             <h1 class="title-v3-md text-uppercase margin-bottom-10">Experiencia</h1>
-            <p>Contamos con más de 15 años de experiencia en numerosos proyectos y con una gran cantidad de clientes satisfechos.</p>
+            <p>Contamos con más de 20 años de experiencia en numerosos proyectos y con una gran cantidad de clientes satisfechos.</p>
         </div>
         <div class="col-md-4 content-boxes-v6 md-margin-bottom-50">
             <i class="rounded-x icon-finance-075"></i>

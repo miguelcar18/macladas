@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg3668"
-   viewBox="0 0 1500 500.00001"
+   viewBox="0 0 1550 500.00001"
    height="500"
-   width="1500"
+   width="1550"
    inkscape:version="0.91 r"
    sodipodi:docname="macladas.svg">
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      inkscape:window-height="582"
      id="namedview3977"
      showgrid="false"
-     inkscape:zoom="0.54133333"
-     inkscape:cx="750"
-     inkscape:cy="250"
+     inkscape:zoom="0.46933185"
+     inkscape:cx="770.19863"
+     inkscape:cy="214.05912"
      inkscape:window-x="49"
      inkscape:window-y="18"
      inkscape:window-maximized="1"
@@ -49,27 +49,28 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-552.36214)"
+     transform="translate(21.437574,-552.36214)"
      id="layer1">
     <text
        transform="scale(1.0001507,0.99984933)"
        id="text3676"
        y="975.95807"
-       x="767.09186"
+       x="752.17926"
        style="font-style:normal;font-weight:normal;font-size:44.18939972px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        sodipodi:linespacing="125%"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.37879944px;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';text-align:center;text-anchor:middle;fill:#000000"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.5px;font-family:'Tibetan Machine Uni';-inkscape-font-specification:'Tibetan Machine Uni';text-align:center;text-anchor:middle;fill:#000000"
          y="975.95807"
-         x="767.09186"
-         id="tspan3678">Ingenieros Consultores</tspan></text>
+         x="752.17926"
+         id="tspan3678">Ingenieros Consultores, C.A</tspan></text>
     <text
        transform="scale(0.99986642,1.0001336)"
        id="text3680"
        y="871.74408"
        x="754.61646"
        style="font-style:normal;font-weight:normal;font-size:278.85372925px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       sodipodi:linespacing="0%"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:UnBatang;-inkscape-font-specification:'UnBatang Bold';text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#800000"
          y="871.74408"
          x="754.61646"

@@ -81,7 +81,15 @@
                 <ul style="padding-left: 0">
                     <li style="list-style: none">
                         <i class="fa fa-chevron-circle-right"></i>
-                        Sondajes eléctricos verticales, Sp. Gr. Perforación de pozos de agua.
+                        Resistividad eléctrica o Sondajes eléctricos verticales (S.E.V)..
+                    </li>
+                    <li style="list-style: none">
+                        <i class="fa fa-chevron-circle-right"></i>
+                        Perforación de pozos de agua.
+                    </li>
+                    <li style="list-style: none">
+                        <i class="fa fa-chevron-circle-right"></i>
+                        Sp. Gr.
                     </li>
                     <li style="list-style: none">
                         <i class="fa fa-chevron-circle-right"></i>
@@ -103,10 +111,6 @@
                         <i class="fa fa-chevron-circle-right"></i>
                         Exploración, explotación de minerales metálicos y no metálicos.
                     </li>
-                    <li style="list-style: none">
-                        <i class="fa fa-chevron-circle-right"></i>
-                        Comercialización de productos no metálicos (arena, piedra y arcilla).
-                    </li>
                 </ul>
             </h5>
         </div>
@@ -120,10 +124,6 @@
                     <li style="list-style: none">
                         <i class="fa fa-chevron-circle-right"></i>
                         Proyectos de ingeniería: diseño, fabricación y montaje de tanques de agua, petróleo y gas.
-                    </li>
-                    <li style="list-style: none">
-                        <i class="fa fa-chevron-circle-right"></i>
-                        Soldadura industrial.
                     </li>
                 </ul>
             </h5>

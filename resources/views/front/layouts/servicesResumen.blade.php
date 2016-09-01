@@ -4,7 +4,7 @@
         <div class="col-md-4 content-boxes-v6 md-margin-bottom-50">
             <i class="rounded-x glyphicon glyphicon-briefcase"></i>
             <h1 class="title-v3-md text-uppercase margin-bottom-10">Experiencia</h1>
-            <p>Contamos con más de 15 años de experiencia en numerosos proyectos y con una gran cantidad de clientes satisfechos.</p>
+            <p>Contamos con más de 20 años de experiencia en numerosos proyectos y con una gran cantidad de clientes satisfechos.</p>
         </div>
         <div class="col-md-4 content-boxes-v6 md-margin-bottom-50">
             <i class="rounded-x icon-finance-075"></i>

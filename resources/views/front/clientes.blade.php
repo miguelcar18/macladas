@@ -166,6 +166,78 @@
                 </div>
             </figure>
         </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/amoco.svg') }}" alt="">
+                <div class="text-center">
+                    <h4>Amoco</h4>
+                </div>
+            </figure>
+        </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/queiroz-galvao.svg') }}" alt="">
+                <div class="text-center">
+                    <h4>Queiroz - Galvao</h4>
+                </div>
+            </figure>
+        </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/pdv.svg') }}" alt="">
+                <div class="text-center">
+                    <h4>PDV</h4>
+                </div>
+            </figure>
+        </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/texaco.svg') }}" alt="">
+                <div class="text-center">
+                    <h4>Texaco</h4>
+                </div>
+            </figure>
+        </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/aguas_monagas.jpg') }}" alt="">
+                <div class="text-center">
+                    <h4>Aguas de Monagas</h4>
+                </div>
+            </figure>
+        </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/oxy.svg') }}" alt="">
+                <div class="text-center">
+                    <h4>Oxy</h4>
+                </div>
+            </figure>
+        </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/sin_logo.jpg') }}" alt="">
+                <div class="text-center">
+                    <h4>CCM</h4>
+                </div>
+            </figure>
+        </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/sin_logo.jpg') }}" alt="">
+                <div class="text-center">
+                    <h4>Ehdasse Sanat Company</h4>
+                </div>
+            </figure>
+        </li>
+        <li>
+            <figure class="tag-box tag-box-v3">
+                <img src="{{ asset('assets/img/clientes/sin_logo.jpg') }}" alt="">
+                <div class="text-center">
+                    <h4>Trebol gas</h4>
+                </div>
+            </figure>
+        </li>
     </ul>
 </div><!--/container-->
 <!--=== End Job Partners ===-->

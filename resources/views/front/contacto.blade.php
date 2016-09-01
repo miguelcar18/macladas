@@ -17,7 +17,7 @@
     <script type="text/javascript" src="{{ asset('assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js') }}"></script>
     <script>
         $(function(){
-            //ContactPage.initMap();
+            ContactPage.initMap();
             PageContactForm.initPageContactForm();
         });
     </script>
@@ -51,10 +51,9 @@
             <ul class="list-unstyled who">
                 <li><a href="javascript:void(0)"><i class="fa fa-home"></i>Carretera Nacional, vía Maturín- La Toscana, Sector Costo Abajo. s/n. Maturín, Edo Monagas.</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i> isaacmaclado@hotmail.com</a></li>
-                <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i> isaacmaclado@yahoo.es</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i> isaacmaclado@gmail.com</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+58 414) 7670909</a></li>
-                <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+58 291) 5117965</a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+58 291) 5117965 / (+58 291) 9898529</a></li>
             </ul>
             <hr>
             <h3>Contacto Perú</h3>
@@ -62,8 +61,8 @@
                 <li><a href="javascript:void(0)"><i class="fa fa-home"></i>Jr. Huancabelica Nº 280- 308. Edif. Sudamérica, Piura.</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i> constpiu@yahoo.es</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i> teodoricor@gmail.com</a></li>
-                <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+51 73) 303652</a></li>
-                <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+51 73) 96-9971274</a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+51 73) 331903 / (+51 73) 520792</a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+51 73) 969971274</a></li>
             </ul>
         </div>
     </div>
