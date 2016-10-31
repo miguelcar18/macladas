@@ -28,7 +28,7 @@ var RevolutionSlider = function () {
 	                startheight:400,
 	                hideThumbs:10,
 	                fullWidth:"off",
-	                fullScreen:"on",
+	                fullScreen:"off",
 	                hideCaptionAtLimit: "",
 	                dottedOverlay:"twoxtwo",
 	                navigationStyle:"preview4",

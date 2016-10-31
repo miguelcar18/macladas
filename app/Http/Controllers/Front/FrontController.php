@@ -49,9 +49,29 @@ class FrontController extends Controller
         return view('front.about');
     }
 
-    public function services()
+    public function geotecnia()
     {
-        return view('front.servicios');
+        return view('front.geotecnia');
+    }
+
+    public function hidrogeologia()
+    {
+        return view('front.hidrogeologia');
+    }
+
+    public function metalmecanica()
+    {
+        return view('front.metalmecanica');
+    }
+
+    public function mineria()
+    {
+        return view('front.mineria');
+    }
+
+    public function resistividad()
+    {
+        return view('front.resistividad');
     }
 
     public function clients()

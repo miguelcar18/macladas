@@ -38,3 +38,44 @@ var ContactPage = function () {
 
     };
 }();
+
+var ContactPagePeru = function () {
+
+    return {
+        
+    	//Basic Map
+        initMap: function () {
+			var map;
+			$(document).ready(function(){
+			  map = new GMaps({
+				div: '#map',
+				scrollwheel: false,				
+				lat: -5.1782884,
+				lng: -80.65488820000002,
+				zoom: 10
+			  });
+			  
+			  var marker = map.addMarker({
+				lat: -5.1782884,
+				lng: -80.65488820000002,
+	            title: 'Company, Inc.',
+	            zoom: 10
+		       });
+			});
+        },
+
+        //Panorama Map
+        initPanorama: function () {
+		    var panorama;
+		    $(document).ready(function(){
+		      panorama = GMaps.createPanorama({
+		        el: '#panorama',
+		        lat : -5.1782884,
+		        lng : -80.65488820000002,
+		        zoom: 10
+		      });
+		    });
+		}        
+
+    };
+}();

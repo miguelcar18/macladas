@@ -25,8 +25,8 @@
 
 <!--=== Container Part ===-->
 <div class="container content-sm">
-    <div class="headline-center margin-bottom-60">
-        <h2>MACLADAS INGENIEROS CONSULTORES</h2>
+    <div class="headline-center">
+        <h2>MACLADAS INGENIEROS CONSULTORES C.A.<br> Rif: J-40074770-8</h2>
         <p>
             Macladas Ingenieros Consultores C.A, es una compañía creada en 1996 con la finalidad de prestar servicios de ingeniería (Geotecnia, Hidrogeología, Minería y Metañmecánica); aseguramiento y control de calidad e inspección  de obras: ensayos de laboratorios de suelos, concreto y asfalto.
         </p>

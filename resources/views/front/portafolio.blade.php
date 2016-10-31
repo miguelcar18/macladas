@@ -42,7 +42,7 @@
     <div id="grid-container" class="cbp-l-grid-agency">
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>INFRAESTRUCTURA</a></h2>
+                {{--<h2><a>INFRAESTRUCTURA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -56,7 +56,7 @@
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>PLANTA DE ALMACENAMIENTO DE CRUDO</a></h2>
+                {{--<h2><a>PLANTA DE ALMACENAMIENTO DE CRUDO</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -70,7 +70,7 @@
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>MUELLE DE AGUAS PROFUNDAS Y PUENTES</a></h2>
+                {{--<h2><a>MUELLE DE AGUAS PROFUNDAS Y PUENTES</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -78,13 +78,13 @@
                     </ul>
                 </div>
                 <p>
-                    Ingeniería conceptual para la proyección de un muelle de aguas profundas y puentes, para la futura carretera que unirá el estado Delta Amacuro hasta los límites con Brasil.
+                    Ingeniería conceptual para la proyección de un muelle de aguas profundas y puentes, para la futura carretera que unirá el Estado Delta Amacuro - Venezuela hasta los límites con Brasil.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>PLANTA PRODUCTORA DE CEMENTO.</a></h2>
+                {{--<h2><a>PLANTA PRODUCTORA DE CEMENTO.</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -92,13 +92,13 @@
                     </ul>
                 </div>
                 <p>
-                    Una planta productora de cemento. el pinto Maturín edo Monagas.
+                    Una planta productora de cemento. el pinto Maturín Estado Monagas.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>ESTACIONES DE SERVICIOS</a></h2>
+                {{--<h2><a>ESTACIONES DE SERVICIOS</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -106,13 +106,13 @@
                     </ul>
                 </div>
                 <p>
-                    Futuras estaciones de servicios para las empresas TREBOL GAS, PDV, CCM Y TEXACO.
+                    Futuras estaciones de servicios para las Empresas TREBOL GAS, PDV, CCM Y TEXACO.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>EDIFICIOS Y URBANIZACIONES</a></h2>
+                {{--<h2><a>EDIFICIOS Y URBANIZACIONES</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -120,13 +120,13 @@
                     </ul>
                 </div>
                 <p>
-                    Edificios y urbanizaciones en los estados Monagas, Delta Amacuro, Sucre, Miranda, Anzoátegui, Bolívar, Trujillo, Barinas y otros.
+                    Edificios y urbanizaciones en los Estados Monagas, Delta Amacuro, Sucre, Miranda, Anzoátegui, Bolívar, Trujillo, Barinas y otros.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>LOCALIZACIONES.</a></h2>
+                {{--<h2><a>LOCALIZACIONES.</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -140,7 +140,7 @@
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>INGENIERÍA Y CONSTRUCCIÓN PDVSA</a></h2>
+                {{--<h2><a>INGENIERÍA Y CONSTRUCCIÓN PDVSA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -154,53 +154,53 @@
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>HOSPITAL MILITAR DE MATURÍN Y ESCUELA DE GUARDIAS NACIONALES</a></h2>
+                {{--<h2><a>HOSPITAL MILITAR DE MATURÍN Y ESCUELA DE GUARDIAS NACIONALES</a>--}}</h2>
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación del estado Monagas - Venezuela</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación del Estado Monagas - Venezuela</b></li>
                     </ul>
                 </div>
                 <p>
-                    Proyección de hospital militar de Maturín y pabellones de la escuela de guardias nacionales de Punta de Mata. estado Monagas.
+                    Proyección de hospital militar de Maturín y pabellones de la escuela de guardias nacionales de Punta de Mata. Estado Monagas.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>MERCADOS</a></h2>
+                {{--<h2><a>MERCADOS</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación de estados Bolívar y Anzoátegui - Venezuela</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación de Estados Bolívar y Anzoátegui - Venezuela</b></li>
                     </ul>
                 </div>
                 <p>
-                    Futuros mercados de: Santa Elena de Uairen edo Bolívar, Barcelona Tronconal III y Puerto la Cruz. estado Anzoátegui.
+                    Futuros mercados de: Santa Elena de Uairen Estado Bolívar, Barcelona Tronconal III y Puerto la Cruz. Estado Anzoátegui.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>SOLUCIONES DE CÁRCAVAS Y DISEÑOS DE MUROS</a></h2>
+                {{--<h2><a>SOLUCIONES DE CÁRCAVAS Y DISEÑOS DE MUROS</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernaciones de los estados Monagas, Sucre, Trujillo y Miranda - Venezuela.</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernaciones de los Estados Monagas, Sucre, Trujillo y Miranda - Venezuela.</b></li>
                     </ul>
                 </div>
                 <p>
-                    Soluciones de cárcavas y diseños de muros, pernos de anclajes y gaviones para las empresas de vialidad de los estados Monagas, Sucre, Trujillo y Miranda.
+                    Soluciones de cárcavas y diseños de muros, pernos de anclajes y gaviones para las Empresas de vialidad de los Estados Monagas, Sucre, Trujillo y Miranda.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>AMPLIACIÓN DE CAPACIDAD DE DESHIDRATACIÓN</a></h2>
+                {{--<h2><a>AMPLIACIÓN DE CAPACIDAD DE DESHIDRATACIÓN</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: PETROBAS estado Monagas.</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: PETROBAS Estado Monagas.</b></li>
                     </ul>
                 </div>
                 <p>
@@ -210,21 +210,21 @@
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>ESCUELAS, LICEOS, SIMONCITOS, TÉCNICAS</a></h2>
+                {{--<h2><a>ESCUELAS, LICEOS, SIMONCITOS, TÉCNICAS</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernaciones de los estados Monagas, Sucre, Miranda, Trujillo, Anzoátegui, Barinas, Delta Amacuro - Venezuela.</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernaciones de los Estados Monagas, Sucre, Miranda, Trujillo, Anzoátegui, Barinas, Delta Amacuro - Venezuela.</b></li>
                     </ul>
                 </div>
                 <p>
-                    Escuelas, liceos, simoncitos, técnicas, para el Ministerio de Educación (FEDES). en los estados: Monagas, Sucre, Miranda, Trujillo, Anzoátegui, Barinas, Delta Amacuro.
+                    Escuelas, liceos, simoncitos, técnicas, para el Ministerio de Educación (FEDES). en los Estados: Monagas, Sucre, Miranda, Trujillo, Anzoátegui, Barinas, Delta Amacuro.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>ALCALDÍAS</a></h2>
+                {{--<h2><a>ALCALDÍAS</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -238,21 +238,21 @@
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>BANCO MUNDIAL</a></h2>
+                {{--<h2><a>BANCO MUNDIAL</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernaciones de los estados Monagas y Sucre - Venezuela.</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernaciones de los Estados Monagas y Sucre - Venezuela.</b></li>
                     </ul>
                 </div>
                 <p>
-                    Banco Mundial, futuros aeropuertos de Monagas y Sucre.
+                    Banco Mundial, futuros aeropuertos de los Estados Monagas y Sucre.
                 </p>
             </div>
         </div>
         <div class="cbp-item geotecnico" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>INFRAESTRUCTURA</a></h2>
+                {{--<h2><a>INFRAESTRUCTURA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Geotécnicos</li>
@@ -266,7 +266,7 @@
         </div>
         <div class="cbp-item integrado" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>TOPOGRAFÍAS, RESISTIVIDAD</a></h2>
+                {{--<h2><a>TOPOGRAFÍAS, RESISTIVIDAD</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Integrados</li>
@@ -280,7 +280,7 @@
         </div>
         <div class="cbp-item integrado" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>RESISTIVIDAD Y GEOTECNIA</a></h2>
+                {{--<h2><a>RESISTIVIDAD Y GEOTECNIA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Integrados</li>
@@ -294,7 +294,7 @@
         </div>
         <div class="cbp-item integrado" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>RESISTIVIDAD Y GEOTECNIA</a></h2>
+                {{--<h2><a>RESISTIVIDAD Y GEOTECNIA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Integrados</li>
@@ -308,7 +308,7 @@
         </div>
         <div class="cbp-item integrado" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>TOPOGRAFÍA, RESISTIVIDAD, GEOTECNIA</a></h2>
+                {{--<h2><a>TOPOGRAFÍA, RESISTIVIDAD, GEOTECNIA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Integrados</li>
@@ -322,7 +322,7 @@
         </div>
         <div class="cbp-item integrado" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>RESISTIVIDAD Y GEOTECNIA</a></h2>
+                {{--<h2><a>RESISTIVIDAD Y GEOTECNIA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Integrados</li>
@@ -336,7 +336,7 @@
         </div>
         <div class="cbp-item integrado" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>GEOLOGÍA SUPERFICIAL, GEOMORFOLOGÍA, HIDROGEOLOGÍA</a></h2>
+                {{--<h2><a>GEOLOGÍA SUPERFICIAL, GEOMORFOLOGÍA, HIDROGEOLOGÍA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Estudios Integrados</li>
@@ -350,21 +350,21 @@
         </div>
         <div class="cbp-item hidrogeologia" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>CONTROL GEOESTADISTICO DE LOS ACUÍFEROS</a></h2>
+                {{--<h2><a>CONTROL GEOESTADISTICO DE LOS ACUÍFEROS</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> División Hidrogeológica</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación del estado Monagas - Venezuela.</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación del Estado Monagas - Venezuela.</b></li>
                     </ul>
                 </div>
                 <p>
-                    Control geoestadistico de los acuíferos de Monagas, estado Monagas.
+                    Control geoestadistico de los acuíferos de Monagas, Estado Monagas.
                 </p>
             </div>
         </div>
         <div class="cbp-item hidrogeologia" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>DISEÑO Y CONSTRUCCIÓN DE SUMIDEROS</a></h2>
+                {{--<h2><a>DISEÑO Y CONSTRUCCIÓN DE SUMIDEROS</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> División Hidrogeológica</li>
@@ -377,7 +377,7 @@
         </div>
         <div class="cbp-item hidrogeologia" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>SONDAJE ELÉCTRICO VERTICALES</a></h2>
+                {{--<h2><a>SONDAJE ELÉCTRICO VERTICALES</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> División Hidrogeológica</li>
@@ -391,21 +391,21 @@
         </div>
         <div class="cbp-item hidrogeologia" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>PERFORACIÓN DE POZOS DE AGUA</a></h2>
+                {{--<h2><a>PERFORACIÓN DE POZOS DE AGUA</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> División Hidrogeológica</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación de los estados Monagas, Delta Amacuro, Anzoátegui y Bolívar – PERÚ.</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación de los Estados Monagas, Delta Amacuro, Anzoátegui y Bolívar – PERÚ.</b></li>
                     </ul>
                 </div>
                 <p>
-                    Perforación de pozos de agua, estado Monagas, Delta Amacuro, Anzoátegui y Bolívar.
+                    Perforación de pozos de agua, Estado Monagas, Delta Amacuro, Anzoátegui y Bolívar.
                 </p>
             </div>
         </div>
         <div class="cbp-item hidrogeologia" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>INSPECCIÓN Y EVALUACIÓN TÉCNICA DE POZOS DE AGUAS</a></h2>
+                {{--<h2><a>INSPECCIÓN Y EVALUACIÓN TÉCNICA DE POZOS DE AGUAS</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> División Hidrogeológica</li>
@@ -419,7 +419,7 @@
         </div>
         <div class="cbp-item hidrogeologia" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>SIMULACIONES</a></h2>
+                {{--<h2><a>SIMULACIONES</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> División Hidrogeológica</li>
@@ -432,21 +432,21 @@
         </div>
         <div class="cbp-item mineria" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>PERFORACIONES</a></h2>
+                {{--<h2><a>PERFORACIONES</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Minería</li>
-                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación del estado Táchira - Venezuela.</b></li>
+                        <li><i class="fa  fa-building-o"></i> <b>Empresa: Gobernación del Estado Táchira - Venezuela.</b></li>
                     </ul>
                 </div>
                 <p>
-                    Perforaciones para determinar reservas de rocas fosfáticas en la conseción fosfosuroeste IV, municipio ayacucho del estado Táchira.
+                    Perforaciones para determinar reservas de rocas fosfáticas en la conseción fosfosuroeste IV, municipio ayacucho del Estado Táchira.
                 </p>
             </div>
         </div>
         <div class="cbp-item mineria" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>ESTUDIO GEOLÓGICO MINERO</a></h2>
+                {{--<h2><a>ESTUDIO GEOLÓGICO MINERO</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Minería</li>
@@ -460,7 +460,7 @@
         </div>
         <div class="cbp-item mineria" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>ESTUDIO GEOLÓGICO MINERO</a></h2>
+                {{--<h2><a>ESTUDIO GEOLÓGICO MINERO</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Minería</li>
@@ -468,13 +468,13 @@
                     </ul>
                 </div>
                 <p>
-                    Estudio geológico / minero para determinar reservas de caliza para la proyección de una planta de cemento cerro azul Municipio Punceres estado Monagas Venezuela.
+                    Estudio geológico / minero para determinar reservas de caliza para la proyección de una planta de cemento cerro azul Municipio Punceres Estado Monagas Venezuela.
                 </p>
             </div>
         </div>
         <div class="cbp-item mineria" style="min-height: 270px">
             <div class="blog margin-bottom-40 tag-box tag-box-v4">
-                <h2><a>ESTUDIO GEOLÓGICO MINERO</a></h2>
+                {{--<h2><a>ESTUDIO GEOLÓGICO MINERO</a></h2>--}}
                 <div class="blog-post-tags">
                     <ul class="list-unstyled list-inline blog-info">
                         <li><i class="fa fa-tags"></i> Minería</li>

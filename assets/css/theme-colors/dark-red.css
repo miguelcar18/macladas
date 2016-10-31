@@ -1277,6 +1277,7 @@ i.icon-bg-u {
 ------------------------------------*/
 .headline-center h2:after {
   background:  #a10f2b;
+  display: none;
 }
 
 /* Headliner Left

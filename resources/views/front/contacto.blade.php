@@ -19,6 +19,16 @@
         $(function(){
             ContactPage.initMap();
             PageContactForm.initPageContactForm();
+
+            $('#contactoVen').on('click', function(e){
+                e.preventDefault();
+                ContactPage.initMap();
+            });
+
+            $('#contactoPer').on('click', function(e){
+                e.preventDefault();
+                ContactPagePeru.initMap();
+            });
         });
     </script>
 @stop
@@ -54,16 +64,27 @@
                 <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i> isaacmaclado@gmail.com</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+58 414) 7670909</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+58 291) 5117965 / (+58 291) 9898529</a></li>
+                <li><a href="#" class="btn-u" id="contactoVen">Ver en el mapa</a></li>
             </ul>
             <hr>
             <h3>Contacto Perú</h3>
             <ul class="list-unstyled who">
-                <li><a href="javascript:void(0)"><i class="fa fa-home"></i>Jr. Huancabelica Nº 280- 308. Edif. Sudamérica, Piura.</a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-home"></i>Jr. Huancavelica Nº 280- 308. Edif. Sudamericana, Piura.</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i> constpiu@yahoo.es</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i> teodoricor@gmail.com</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+51 73) 331903 / (+51 73) 520792</a></li>
                 <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>(+51 73) 969971274</a></li>
+                <li><a href="#" class="btn-u" id="contactoPer">Ver en el mapa</a></li>
             </ul>
+            {{--
+            <hr>
+            <h3>Contacto Trinidad y Tobago</h3>
+            <ul class="list-unstyled who">
+                <li><a href="javascript:void(0)"><i class="fa fa-home"></i>--</a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-envelope"></i>--</a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-phone"></i>--</a></li>
+            </ul>
+            --}}
         </div>
     </div>
     <div class="row margin-bottom-30">

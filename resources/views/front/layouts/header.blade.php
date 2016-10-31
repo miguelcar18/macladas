@@ -1,7 +1,7 @@
 <div class="header-v6 header-classic-white header-sticky">
 	<!-- Navbar -->
 	<div class="navbar mega-menu" role="navigation">
-		<div class="container">
+		<div class="container-fluid">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="menu-container">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
@@ -12,8 +12,8 @@
 				</button>
 
 				<!-- Navbar Brand -->
-				<div class="navbar-brand">
-					<a href="index.html">
+				<div class="navbar-brand" align="center">
+					<a href="{{ URL::route('principal') }}">
 						<img class="shrink-logo" src="{{ asset('assets/img/logo/macladas.svg') }}" alt="Logo">
 					</a>
 				</div>
@@ -38,10 +38,27 @@
 								Portafolio
 							</a>
 						</li>
-						<li @if(Route::getCurrentRoute()->getName() == 'services') class="active" @endif>
-							<a href="{{ URL::route('services') }}">
+						<li class="dropdown @if(Route::getCurrentRoute()->getName() == 'geotecnia' || Route::getCurrentRoute()->getName() == 'metalmecanica'|| Route::getCurrentRoute()->getName() == 'mineria'|| Route::getCurrentRoute()->getName() == 'hidrogeologia'|| Route::getCurrentRoute()->getName() == 'resistividad')active @endif">
+							<a class="dropdown-toggle" href="javascript:void(0);" data-toggle="dropdown">
 								Servicios
 							</a>
+							<ul class="dropdown-menu">
+								<li @if(Route::getCurrentRoute()->getName() == 'geotecnia') class="active" @endif>
+									<a href="{{ URL::route('geotecnia') }}">Geotécnia</a>
+								</li>
+								<li @if(Route::getCurrentRoute()->getName() == 'hidrogeologia') class="active" @endif>
+									<a href="{{ URL::route('hidrogeologia') }}">Hidrogeología</a>
+								</li>
+								<li @if(Route::getCurrentRoute()->getName() == 'metalmecanica') class="active" @endif>
+									<a href="{{ URL::route('metalmecanica') }}">Metalmecánica</a>
+								</li>
+								<li @if(Route::getCurrentRoute()->getName() == 'mineria') class="active" @endif>
+									<a href="{{ URL::route('mineria') }}">Minería</a>
+								</li>
+								<li @if(Route::getCurrentRoute()->getName() == 'resistividad') class="active" @endif>
+									<a href="{{ URL::route('resistividad') }}">Resistividad</a>
+								</li>
+							</ul>
 						</li>
 						<li @if(Route::getCurrentRoute()->getName() == 'clients') class="active" @endif>
 							<a href="{{ URL::route('clients') }}">

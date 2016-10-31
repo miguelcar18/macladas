@@ -17,16 +17,19 @@
                         <div class="headline"><h2>Servicios</h2></div>
                         <ul class="list-unstyled latest-list">
                             <li>
-                                <a href="{{ URL::route('services') }}">Geotécnia</a>
+                                <a href="{{ URL::route('geotecnia') }}">Geotécnia</a>
                             </li>
                             <li>
-                                <a href="{{ URL::route('services') }}">Hidrogeología</a>
+                                <a href="{{ URL::route('hidrogeologia') }}">Hidrogeología</a>
                             </li>
                             <li>
-                                <a href="{{ URL::route('services') }}">Minería</a>
+                                <a href="{{ URL::route('mineria') }}">Minería</a>
                             </li>
                             <li>
-                                <a href="{{ URL::route('services') }}">Metalmecánica</a>
+                                <a href="{{ URL::route('metalmecanica') }}">Metalmecánica</a>
+                            </li>
+                            <li>
+                                <a href="{{ URL::route('resistividad') }}">Resistividad</a>
                             </li>
                         </ul>
                     </div>
