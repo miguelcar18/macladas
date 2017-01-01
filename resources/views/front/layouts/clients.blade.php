@@ -74,6 +74,9 @@
         <div class="item">
             <img src="{{ asset('assets/img/clientes/oxy.svg') }}" alt="">
         </div>
+        <div class="item">
+            <img src="{{ asset('assets/img/clientes/ccm.svg') }}" alt="">
+        </div>
     </div>
 </div><!--/container-->
 <!-- End Owl Clients v1 -->

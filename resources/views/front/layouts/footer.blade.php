@@ -29,7 +29,7 @@
                                 <a href="{{ URL::route('metalmecanica') }}">Metalmecánica</a>
                             </li>
                             <li>
-                                <a href="{{ URL::route('resistividad') }}">Resistividad</a>
+                                <a href="{{ URL::route('resistividad') }}">Electricidad / Resistividad</a>
                             </li>
                         </ul>
                     </div>

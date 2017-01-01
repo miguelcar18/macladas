@@ -27,7 +27,7 @@
 <!--=== Content Part ===-->
 <div class="container content">
     <div class="title-box-v2">
-        <h2>RESISTIVIDAD ELÉCTRICA</h2>
+        <h2>ELECTRICIDAD / RESISTIVIDAD ELÉCTRICA</h2>
     </div>
 
     <!-- About Sldier -->
@@ -67,7 +67,7 @@
         </div><!--/end row-->
 
         <div class="title-box-v2">
-            <p>Una Ingeniería confiable en un Sistema de Puesta a Tierra, deberá mantener todas las partes de los sistemas eléctricos y electrónicos al mismo potencial, siempre dentro de los límites de tolerancia prescritos para proveer un camino de baja impedancia para las sobrecargas de energía, a fin de equilibrar el sistema y drenar simultáneamente a tierra, cualquier evento eléctrico. El punto principal para cualquier Sistema de Puesta a tierra, es la conexión eléctrica efectiva con la tierra física. Por la amplitud de las variaciones en el terreno a través del mundo, es a menudo la más difícil para establecer la máxima efectividad.</p>
+            <p>Una ingeniería confiable en un sistema de puesta a tierra, deberá mantener todas las partes de los sistemas eléctricos y electrónicos al mismo potencial, siempre dentro de los límites de tolerancia prescritos para proveer un camino de baja impedancia para las sobrecargas de energía, a fin de equilibrar el sistema y drenar simultáneamente a tierra, cualquier evento eléctrico. El punto principal para cualquier sistema de puesta a tierra, es la conexión eléctrica efectiva con la tierra física. Por la amplitud de las variaciones en el terreno a través del mundo, es a menudo la más difícil para establecer la máxima efectividad.</p>
         </div>
 
         <div class="row margin-bottom-10">
@@ -82,7 +82,11 @@
                             </li>
                             <li>
                                 <i class="fa fa-angle-right"></i>
-                                Definición de puesta a tierra y pararayos.
+                                Definición de puesta a tierra y pararrayos.
+                            </li>
+                            <li>
+                                <i class="fa fa-angle-right"></i>
+                                Instalación de bombas electrosumergibles y tableros de control para los pozos de agua.
                             </li>
                         </ul>
                     </h5>

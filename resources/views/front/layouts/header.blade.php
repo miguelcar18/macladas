@@ -56,7 +56,7 @@
 									<a href="{{ URL::route('mineria') }}">Minería</a>
 								</li>
 								<li @if(Route::getCurrentRoute()->getName() == 'resistividad') class="active" @endif>
-									<a href="{{ URL::route('resistividad') }}">Resistividad</a>
+									<a href="{{ URL::route('resistividad') }}">Electricidad / Resistividad eléctrica</a>
 								</li>
 							</ul>
 						</li>

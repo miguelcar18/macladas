@@ -216,7 +216,7 @@
         </li>
         <li>
             <figure class="tag-box tag-box-v3">
-                <img src="{{ asset('assets/img/clientes/sin_logo.jpg') }}" alt="">
+                <img src="{{ asset('assets/img/clientes/ccm.svg') }}" alt="">
                 <div class="text-center">
                     <h4>CCM</h4>
                 </div>

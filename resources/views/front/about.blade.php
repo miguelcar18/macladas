@@ -40,7 +40,7 @@
                 <ul class="list-unstyled lists-v1">
                     <li><i class="fa fa-angle-right"></i>Proyectos geotécnicos en tierra firme y off shore.</li>
                     <li><i class="fa fa-angle-right"></i>Evaluación del riesgo de pounch though en capas de arcilla blanda a consecuencia de las acciones climáticas.</li>
-                    <li><i class="fa fa-angle-right"></i>Análisis de estabilidad y comportamiento a corto y largo plazo de plataformas, muelles, rompeolas, estructuras, recuperación de terrenos.</li>
+                    <li><i class="fa fa-angle-right"></i>Análisis de estabilidad / comportamiento a corto y largo plazo de plataformas, muelles, rompeolas, estructuras, recuperación de terrenos.</li>
                     <li><i class="fa fa-angle-right"></i>Simulación matemática de estructuras.</li>
                     <li><i class="fa fa-angle-right"></i>Exploración por agua, S.E.V., perforación de pozos de agua.</li>
                 </ul>
